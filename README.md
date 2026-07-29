@@ -11,7 +11,7 @@ This repository is split into two main analytical modules:
 * [**Project 1: Python & SQL Analysis**](./Project_1_Python_SQL/)  
   * Exploratory data analysis notebook focusing on data hygiene, monthly transaction volume shifts, and ticket-size calculations using Pandas and SQLite.
   
-* [**Project 2: Excel Spending Dashboard**](./Project_2_Excel_Dashboard/)  
+* [**Project 2: Excel Spending Dashboard**](./Project_2_Excel_dashboard/)  
   * An interactive Excel workbook featuring pivot tables, category spend breakdowns, dynamic lookup formulas (`XLOOKUP`/`VLOOKUP`), and visualization charts.
 
 ---
